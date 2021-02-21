@@ -1,2 +1,7 @@
 # Calculator
-HTML5, CSS3, and JavaScript to make a simple calculator.
+Simple Calculator.
+
+## Getting Started
+Click on the link below 👇 to start calculating 😜
+
+🖩 https://hananshpigler.github.io/Calculator/ 🖩
